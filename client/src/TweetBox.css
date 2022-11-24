@@ -11,6 +11,7 @@
 }
 
 .tweetBox__input {
+  color:rebeccapurple;
   padding: 20px;
   display: flex;
 }
@@ -27,6 +28,7 @@
   /* border: none; */
   border-radius: 30px !important;
   padding: 10px;
+  color:rebeccapurple;
 }
 
 .tweetBox__tweetButton {
